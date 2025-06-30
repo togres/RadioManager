@@ -1,3 +1,19 @@
+<!-- app/src/main/res/values/strings.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Radio Manager</string>
+    <string name="device_name_hint">Nazwa radia</string>
+    <string name="device_ip_hint">Adres IP (np. 192.168.1.100:8080)</string>
+    <string name="add_device">Dodaj urządzenie</string>
+    <string name="cancel">Anuluj</string>
+    <string name="add">Dodaj</string>
+    <string name="error_empty_name">Wprowadź nazwę urządzenia</string>
+    <string name="error_empty_ip">Wprowadź adres IP</string>
+    <string name="error_invalid_ip">Nieprawidłowy format adresu IP</string>
+    <string name="device_added">Urządzenie zostało dodane</string>
+    <string name="connection_error">Błąd połączenia</string>
+</resources>
+
 <!-- app/src/main/res/values/colors.xml -->
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
